@@ -1,5 +1,7 @@
 # Doodle Jump
 
+![Doodle_Jump](https://github.com/user-attachments/assets/e896b8dd-2dde-4d8b-99d7-385c9a3dda61)
+
 This project is a clone of the popular game **Doodle Jump**, implemented in C++. The game features dynamic gameplay, including platforms, enemies, abilities, and bullets, with scalable graphics and responsive controls.
 
 ## Features
